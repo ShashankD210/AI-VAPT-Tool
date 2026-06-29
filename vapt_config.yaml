@@ -1,0 +1,7 @@
+app:
+  name: VAPT Tool
+  version: "3.0.0"
+
+security:
+  cors_origins:
+    - "*"
